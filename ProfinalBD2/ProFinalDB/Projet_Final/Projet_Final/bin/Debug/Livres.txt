@@ -1,0 +1,5 @@
+BB 22222*L'adieu aux armes*Eyrolles*Hemingway*Ernest*99*12,56*Littérature*10/02/1930 00:00:00
+AA 11111*lolita*Eyrolles*Nabokov*vladimir*100*13,55*Littérature*12/02/1982 00:00:00
+DD 44444*l'homme révolté*Pinguin*Camus*Albert*52*12,45*Littérature*12/02/1981 00:00:00
+CC 33333*C# un truc difficile*Pinguin*Lafontaine*Jean*23*220*Science*11/03/1999 00:00:00
+FF 44444*C++ c'est plus facile*Pinguin*Lapointe*Jean*18*23,56*Science*10/02/1982 00:00:00

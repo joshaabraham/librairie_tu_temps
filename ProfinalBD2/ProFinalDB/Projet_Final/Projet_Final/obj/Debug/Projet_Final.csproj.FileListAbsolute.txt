@@ -1,0 +1,156 @@
+C:\Users\Alain\Desktop\Projet_Final\Projet_Final\Projet_Final\bin\Debug\Projet_Final.exe.config
+C:\Users\Alain\Desktop\Projet_Final\Projet_Final\Projet_Final\bin\Debug\Projet_Final.exe
+C:\Users\Alain\Desktop\Projet_Final\Projet_Final\Projet_Final\bin\Debug\Projet_Final.pdb
+C:\Users\Alain\Desktop\Projet_Final\Projet_Final\Projet_Final\obj\Debug\Projet_Final.csprojResolveAssemblyReference.cache
+C:\Users\Alain\Desktop\Projet_Final\Projet_Final\Projet_Final\obj\Debug\Projet_Final.Administration.resources
+C:\Users\Alain\Desktop\Projet_Final\Projet_Final\Projet_Final\obj\Debug\Projet_Final.LoginWindows.resources
+C:\Users\Alain\Desktop\Projet_Final\Projet_Final\Projet_Final\obj\Debug\Projet_Final.Properties.Resources.resources
+C:\Users\Alain\Desktop\Projet_Final\Projet_Final\Projet_Final\obj\Debug\Projet_Final.csproj.GenerateResource.Cache
+C:\Users\Alain\Desktop\Projet_Final\Projet_Final\Projet_Final\obj\Debug\Projet_Final.exe
+C:\Users\Alain\Desktop\Projet_Final\Projet_Final\Projet_Final\obj\Debug\Projet_Final.pdb
+C:\Users\Alain\Desktop\Projet_Final\Projet_Final\Projet_Final\obj\Debug\Projet_Final.FeuilleCommis.resources
+C:\Users\Alain\Desktop\Projet_Final\Projet_Final\Projet_Final\obj\Debug\Projet_Final.COMMIS.resources
+C:\Users\Alain\Desktop\Projet_Final - Copie\Projet_Final\Projet_Final\bin\Debug\Projet_Final.exe.config
+C:\Users\Alain\Desktop\Projet_Final - Copie\Projet_Final\Projet_Final\obj\Debug\Projet_Final.exe
+C:\Users\Alain\Desktop\Projet_Final - Copie\Projet_Final\Projet_Final\obj\Debug\Projet_Final.pdb
+C:\Users\Alain\Desktop\Projet_Final - Copie\Projet_Final\Projet_Final\bin\Debug\Projet_Final.exe
+C:\Users\Alain\Desktop\Projet_Final - Copie\Projet_Final\Projet_Final\bin\Debug\Projet_Final.pdb
+C:\Users\Alain\Desktop\Projet_Final - Copie\Projet_Final\Projet_Final\obj\Debug\Projet_Final.csprojResolveAssemblyReference.cache
+C:\Users\Alain\Desktop\Projet_Final - Copie\Projet_Final\Projet_Final\obj\Debug\Projet_Final.Administration.resources
+C:\Users\Alain\Desktop\Projet_Final - Copie\Projet_Final\Projet_Final\obj\Debug\Projet_Final.FeuilleCommis.resources
+C:\Users\Alain\Desktop\Projet_Final - Copie\Projet_Final\Projet_Final\obj\Debug\Projet_Final.COMMIS.resources
+C:\Users\Alain\Desktop\Projet_Final - Copie\Projet_Final\Projet_Final\obj\Debug\Projet_Final.LoginWindows.resources
+C:\Users\Alain\Desktop\Projet_Final - Copie\Projet_Final\Projet_Final\obj\Debug\Projet_Final.Properties.Resources.resources
+C:\Users\Alain\Desktop\Projet_Final - Copie\Projet_Final\Projet_Final\obj\Debug\Projet_Final.csproj.GenerateResource.Cache
+C:\Users\Alain\Desktop\Projet_Final - Copie\Projet_Final\Projet_Final\obj\Debug\Projet_Final.FeuilleControle.resources
+C:\Users\Alain\Desktop\Projet_Final - Copie\Projet_Final\Projet_Final\obj\Debug\Projet_Final.Fomulaires.modifParametreCompte.resources
+C:\Users\Alain\Desktop\Projet_Final - Copie\Projet_Final\Projet_Final\obj\Debug\Projet_Final.Fomulaires.FormAuteur.resources
+C:\Users\Alain\Desktop\Projet_Final - Copie\Projet_Final\Projet_Final\obj\Debug\Projet_Final.Fomulaires.HighTechPrecisions.resources
+J:\Projet_Final - Copie\Projet_Final\Projet_Final\bin\Debug\Projet_Final.exe.config
+J:\Projet_Final - Copie\Projet_Final\Projet_Final\obj\Debug\Projet_Final.exe
+J:\Projet_Final - Copie\Projet_Final\Projet_Final\obj\Debug\Projet_Final.pdb
+J:\Projet_Final - Copie\Projet_Final\Projet_Final\bin\Debug\Projet_Final.exe
+J:\Projet_Final - Copie\Projet_Final\Projet_Final\bin\Debug\Projet_Final.pdb
+J:\Projet_Final - Copie\Projet_Final\Projet_Final\obj\Debug\Projet_Final.csprojResolveAssemblyReference.cache
+J:\Projet_Final - Copie\Projet_Final\Projet_Final\obj\Debug\Projet_Final.Administration.resources
+J:\Projet_Final - Copie\Projet_Final\Projet_Final\obj\Debug\Projet_Final.FeuilleCommis.resources
+J:\Projet_Final - Copie\Projet_Final\Projet_Final\obj\Debug\Projet_Final.FeuilleControle.resources
+J:\Projet_Final - Copie\Projet_Final\Projet_Final\obj\Debug\Projet_Final.Fomulaires.FormAuteur.resources
+J:\Projet_Final - Copie\Projet_Final\Projet_Final\obj\Debug\Projet_Final.COMMIS.resources
+J:\Projet_Final - Copie\Projet_Final\Projet_Final\obj\Debug\Projet_Final.Fomulaires.HighTechPrecisions.resources
+J:\Projet_Final - Copie\Projet_Final\Projet_Final\obj\Debug\Projet_Final.LoginWindows.resources
+J:\Projet_Final - Copie\Projet_Final\Projet_Final\obj\Debug\Projet_Final.Fomulaires.modifParametreCompte.resources
+J:\Projet_Final - Copie\Projet_Final\Projet_Final\obj\Debug\Projet_Final.Properties.Resources.resources
+J:\Projet_Final - Copie\Projet_Final\Projet_Final\obj\Debug\Projet_Final.csproj.GenerateResource.Cache
+C:\Users\Alain\Desktop\Projet_Final - Copie - Copie\Projet_Final\Projet_Final\bin\Debug\Projet_Final.exe.config
+C:\Users\Alain\Desktop\Projet_Final - Copie - Copie\Projet_Final\Projet_Final\bin\Debug\Projet_Final.exe
+C:\Users\Alain\Desktop\Projet_Final - Copie - Copie\Projet_Final\Projet_Final\bin\Debug\Projet_Final.pdb
+C:\Users\Alain\Desktop\Projet_Final - Copie - Copie\Projet_Final\Projet_Final\obj\Debug\Projet_Final.Administration.resources
+C:\Users\Alain\Desktop\Projet_Final - Copie - Copie\Projet_Final\Projet_Final\obj\Debug\Projet_Final.FeuilleCommis.resources
+C:\Users\Alain\Desktop\Projet_Final - Copie - Copie\Projet_Final\Projet_Final\obj\Debug\Projet_Final.FeuilleControle.resources
+C:\Users\Alain\Desktop\Projet_Final - Copie - Copie\Projet_Final\Projet_Final\obj\Debug\Projet_Final.Fomulaires.FormAuteur.resources
+C:\Users\Alain\Desktop\Projet_Final - Copie - Copie\Projet_Final\Projet_Final\obj\Debug\Projet_Final.COMMIS.resources
+C:\Users\Alain\Desktop\Projet_Final - Copie - Copie\Projet_Final\Projet_Final\obj\Debug\Projet_Final.Fomulaires.HighTechPrecisions.resources
+C:\Users\Alain\Desktop\Projet_Final - Copie - Copie\Projet_Final\Projet_Final\obj\Debug\Projet_Final.LoginWindows.resources
+C:\Users\Alain\Desktop\Projet_Final - Copie - Copie\Projet_Final\Projet_Final\obj\Debug\Projet_Final.Fomulaires.modifParametreCompte.resources
+C:\Users\Alain\Desktop\Projet_Final - Copie - Copie\Projet_Final\Projet_Final\obj\Debug\Projet_Final.Properties.Resources.resources
+C:\Users\Alain\Desktop\Projet_Final - Copie - Copie\Projet_Final\Projet_Final\obj\Debug\Projet_Final.csproj.GenerateResource.Cache
+C:\Users\Alain\Desktop\Projet_Final - Copie - Copie\Projet_Final\Projet_Final\obj\Debug\Projet_Final.exe
+C:\Users\Alain\Desktop\Projet_Final - Copie - Copie\Projet_Final\Projet_Final\obj\Debug\Projet_Final.pdb
+C:\Users\Alain\Desktop\Projet_Final - Copie - Copie\Projet_Final\Projet_Final\obj\Debug\Projet_Final.csprojResolveAssemblyReference.cache
+C:\Users\Alain\Desktop\Projet_Final_C_sharp\Projet_Final\Projet_Final\bin\Debug\Projet_Final.exe.config
+C:\Users\Alain\Desktop\Projet_Final_C_sharp\Projet_Final\Projet_Final\bin\Debug\Projet_Final.exe
+C:\Users\Alain\Desktop\Projet_Final_C_sharp\Projet_Final\Projet_Final\bin\Debug\Projet_Final.pdb
+C:\Users\Alain\Desktop\Projet_Final_C_sharp\Projet_Final\Projet_Final\obj\Debug\Projet_Final.csprojResolveAssemblyReference.cache
+C:\Users\Alain\Desktop\Projet_Final_C_sharp\Projet_Final\Projet_Final\obj\Debug\Projet_Final.Administration.resources
+C:\Users\Alain\Desktop\Projet_Final_C_sharp\Projet_Final\Projet_Final\obj\Debug\Projet_Final.FeuilleCommis.resources
+C:\Users\Alain\Desktop\Projet_Final_C_sharp\Projet_Final\Projet_Final\obj\Debug\Projet_Final.FeuilleControle.resources
+C:\Users\Alain\Desktop\Projet_Final_C_sharp\Projet_Final\Projet_Final\obj\Debug\Projet_Final.Fomulaires.FormAuteur.resources
+C:\Users\Alain\Desktop\Projet_Final_C_sharp\Projet_Final\Projet_Final\obj\Debug\Projet_Final.COMMIS.resources
+C:\Users\Alain\Desktop\Projet_Final_C_sharp\Projet_Final\Projet_Final\obj\Debug\Projet_Final.Fomulaires.HighTechPrecisions.resources
+C:\Users\Alain\Desktop\Projet_Final_C_sharp\Projet_Final\Projet_Final\obj\Debug\Projet_Final.LoginWindows.resources
+C:\Users\Alain\Desktop\Projet_Final_C_sharp\Projet_Final\Projet_Final\obj\Debug\Projet_Final.Fomulaires.modifParametreCompte.resources
+C:\Users\Alain\Desktop\Projet_Final_C_sharp\Projet_Final\Projet_Final\obj\Debug\Projet_Final.Properties.Resources.resources
+C:\Users\Alain\Desktop\Projet_Final_C_sharp\Projet_Final\Projet_Final\obj\Debug\Projet_Final.csproj.GenerateResource.Cache
+C:\Users\Alain\Desktop\Projet_Final_C_sharp\Projet_Final\Projet_Final\obj\Debug\Projet_Final.exe
+C:\Users\Alain\Desktop\Projet_Final_C_sharp\Projet_Final\Projet_Final\obj\Debug\Projet_Final.pdb
+C:\Users\Alain\Desktop\Projet_Final_C_sharp - Copie\Projet_Final\Projet_Final\bin\Debug\Projet_Final.exe.config
+C:\Users\Alain\Desktop\Projet_Final_C_sharp - Copie\Projet_Final\Projet_Final\obj\Debug\Projet_Final.exe
+C:\Users\Alain\Desktop\Projet_Final_C_sharp - Copie\Projet_Final\Projet_Final\obj\Debug\Projet_Final.pdb
+C:\Users\Alain\Desktop\Projet_Final_C_sharp - Copie\Projet_Final\Projet_Final\obj\Debug\Projet_Final.csprojResolveAssemblyReference.cache
+C:\Users\Alain\Desktop\Projet_Final_C_sharp - Copie\Projet_Final\Projet_Final\obj\Debug\Projet_Final.Administration.resources
+C:\Users\Alain\Desktop\Projet_Final_C_sharp - Copie\Projet_Final\Projet_Final\obj\Debug\Projet_Final.Fomulaires.FeuilleCommis.resources
+C:\Users\Alain\Desktop\Projet_Final_C_sharp - Copie\Projet_Final\Projet_Final\obj\Debug\Projet_Final.FeuilleControle.resources
+C:\Users\Alain\Desktop\Projet_Final_C_sharp - Copie\Projet_Final\Projet_Final\obj\Debug\Projet_Final.Fomulaires.FormAuteur.resources
+C:\Users\Alain\Desktop\Projet_Final_C_sharp - Copie\Projet_Final\Projet_Final\obj\Debug\Projet_Final.COMMIS.resources
+C:\Users\Alain\Desktop\Projet_Final_C_sharp - Copie\Projet_Final\Projet_Final\obj\Debug\Projet_Final.Fomulaires.HighTechPrecisions.resources
+C:\Users\Alain\Desktop\Projet_Final_C_sharp - Copie\Projet_Final\Projet_Final\obj\Debug\Projet_Final.LoginWindows.resources
+C:\Users\Alain\Desktop\Projet_Final_C_sharp - Copie\Projet_Final\Projet_Final\obj\Debug\Projet_Final.Fomulaires.modifParametreCompte.resources
+C:\Users\Alain\Desktop\Projet_Final_C_sharp - Copie\Projet_Final\Projet_Final\obj\Debug\Projet_Final.Properties.Resources.resources
+C:\Users\Alain\Desktop\Projet_Final_C_sharp - Copie\Projet_Final\Projet_Final\obj\Debug\Projet_Final.csproj.GenerateResource.Cache
+C:\Users\Alain\Desktop\Projet_Final_C_sharp - Copie\Projet_Final\Projet_Final\bin\Debug\Projet_Final.exe
+C:\Users\Alain\Desktop\Projet_Final_C_sharp - Copie\Projet_Final\Projet_Final\bin\Debug\Projet_Final.pdb
+C:\Users\Alain\Desktop\ProFinal\Projet_Final\Projet_Final\bin\Debug\Projet_Final.exe.config
+C:\Users\Alain\Desktop\ProFinal\Projet_Final\Projet_Final\bin\Debug\Projet_Final.exe
+C:\Users\Alain\Desktop\ProFinal\Projet_Final\Projet_Final\bin\Debug\Projet_Final.pdb
+C:\Users\Alain\Desktop\ProFinal\Projet_Final\Projet_Final\obj\Debug\Projet_Final.Administration.resources
+C:\Users\Alain\Desktop\ProFinal\Projet_Final\Projet_Final\obj\Debug\Projet_Final.Fomulaires.FeuilleCommis.resources
+C:\Users\Alain\Desktop\ProFinal\Projet_Final\Projet_Final\obj\Debug\Projet_Final.FeuilleControle.resources
+C:\Users\Alain\Desktop\ProFinal\Projet_Final\Projet_Final\obj\Debug\Projet_Final.Fomulaires.FormAuteur.resources
+C:\Users\Alain\Desktop\ProFinal\Projet_Final\Projet_Final\obj\Debug\Projet_Final.COMMIS.resources
+C:\Users\Alain\Desktop\ProFinal\Projet_Final\Projet_Final\obj\Debug\Projet_Final.Fomulaires.HighTechPrecisions.resources
+C:\Users\Alain\Desktop\ProFinal\Projet_Final\Projet_Final\obj\Debug\Projet_Final.LoginWindows.resources
+C:\Users\Alain\Desktop\ProFinal\Projet_Final\Projet_Final\obj\Debug\Projet_Final.Fomulaires.modifParametreCompte.resources
+C:\Users\Alain\Desktop\ProFinal\Projet_Final\Projet_Final\obj\Debug\Projet_Final.Properties.Resources.resources
+C:\Users\Alain\Desktop\ProFinal\Projet_Final\Projet_Final\obj\Debug\Projet_Final.csproj.GenerateResource.Cache
+C:\Users\Alain\Desktop\ProFinal\Projet_Final\Projet_Final\obj\Debug\Projet_Final.exe
+C:\Users\Alain\Desktop\ProFinal\Projet_Final\Projet_Final\obj\Debug\Projet_Final.pdb
+C:\Users\Alain\Desktop\ProFinal\Projet_Final\Projet_Final\obj\Debug\Projet_Final.csprojResolveAssemblyReference.cache
+C:\PROJECTS\projectCsharp\ProFinalDB\Projet_Final\Projet_Final\bin\Debug\Projet_Final.exe.config
+C:\PROJECTS\projectCsharp\ProFinalDB\Projet_Final\Projet_Final\obj\Debug\Projet_Final.exe
+C:\PROJECTS\projectCsharp\ProFinalDB\Projet_Final\Projet_Final\obj\Debug\Projet_Final.pdb
+C:\PROJECTS\projectCsharp\ProFinalDB\Projet_Final\Projet_Final\obj\Debug\Projet_Final.csprojResolveAssemblyReference.cache
+C:\PROJECTS\projectCsharp\ProFinalDB\Projet_Final\Projet_Final\obj\Debug\Projet_Final.Administration.resources
+C:\PROJECTS\projectCsharp\ProFinalDB\Projet_Final\Projet_Final\obj\Debug\Projet_Final.Fomulaires.FeuilleCommis.resources
+C:\PROJECTS\projectCsharp\ProFinalDB\Projet_Final\Projet_Final\obj\Debug\Projet_Final.FeuilleControle.resources
+C:\PROJECTS\projectCsharp\ProFinalDB\Projet_Final\Projet_Final\obj\Debug\Projet_Final.Fomulaires.FormAuteur.resources
+C:\PROJECTS\projectCsharp\ProFinalDB\Projet_Final\Projet_Final\obj\Debug\Projet_Final.COMMIS.resources
+C:\PROJECTS\projectCsharp\ProFinalDB\Projet_Final\Projet_Final\obj\Debug\Projet_Final.Fomulaires.HighTechPrecisions.resources
+C:\PROJECTS\projectCsharp\ProFinalDB\Projet_Final\Projet_Final\obj\Debug\Projet_Final.Gui.Login.resources
+C:\PROJECTS\projectCsharp\ProFinalDB\Projet_Final\Projet_Final\obj\Debug\Projet_Final.Fomulaires.modifParametreCompte.resources
+C:\PROJECTS\projectCsharp\ProFinalDB\Projet_Final\Projet_Final\obj\Debug\Projet_Final.Properties.Resources.resources
+C:\PROJECTS\projectCsharp\ProFinalDB\Projet_Final\Projet_Final\obj\Debug\Projet_Final.csproj.GenerateResource.Cache
+C:\PROJECTS\projectCsharp\ProFinalDB\Projet_Final\Projet_Final\bin\Debug\Projet_Final.exe
+C:\PROJECTS\projectCsharp\ProFinalDB\Projet_Final\Projet_Final\bin\Debug\Projet_Final.pdb
+C:\Users\BaoChau\Desktop\ProFinalDB\Projet_Final\Projet_Final\bin\Debug\Projet_Final.exe.config
+C:\Users\BaoChau\Desktop\ProFinalDB\Projet_Final\Projet_Final\obj\Debug\Projet_Final.exe
+C:\Users\BaoChau\Desktop\ProFinalDB\Projet_Final\Projet_Final\obj\Debug\Projet_Final.pdb
+C:\Users\BaoChau\Desktop\ProFinalDB\Projet_Final\Projet_Final\bin\Debug\Projet_Final.exe
+C:\Users\BaoChau\Desktop\ProFinalDB\Projet_Final\Projet_Final\bin\Debug\Projet_Final.pdb
+C:\Users\BaoChau\Desktop\ProFinalDB\Projet_Final\Projet_Final\obj\Debug\Projet_Final.csprojResolveAssemblyReference.cache
+C:\Users\BaoChau\Desktop\ProFinalDB\Projet_Final\Projet_Final\obj\Debug\Projet_Final.Administration.resources
+C:\Users\BaoChau\Desktop\ProFinalDB\Projet_Final\Projet_Final\obj\Debug\Projet_Final.Fomulaires.FeuilleCommis.resources
+C:\Users\BaoChau\Desktop\ProFinalDB\Projet_Final\Projet_Final\obj\Debug\Projet_Final.FeuilleControle.resources
+C:\Users\BaoChau\Desktop\ProFinalDB\Projet_Final\Projet_Final\obj\Debug\Projet_Final.Fomulaires.FormAuteur.resources
+C:\Users\BaoChau\Desktop\ProFinalDB\Projet_Final\Projet_Final\obj\Debug\Projet_Final.COMMIS.resources
+C:\Users\BaoChau\Desktop\ProFinalDB\Projet_Final\Projet_Final\obj\Debug\Projet_Final.Fomulaires.HighTechPrecisions.resources
+C:\Users\BaoChau\Desktop\ProFinalDB\Projet_Final\Projet_Final\obj\Debug\Projet_Final.Gui.Login.resources
+C:\Users\BaoChau\Desktop\ProFinalDB\Projet_Final\Projet_Final\obj\Debug\Projet_Final.Fomulaires.modifParametreCompte.resources
+C:\Users\BaoChau\Desktop\ProFinalDB\Projet_Final\Projet_Final\obj\Debug\Projet_Final.Properties.Resources.resources
+C:\Users\BaoChau\Desktop\ProFinalDB\Projet_Final\Projet_Final\obj\Debug\Projet_Final.csproj.GenerateResource.Cache
+C:\PROJECTS\projectCsharp\ProfinalBD2\ProFinalDB\Projet_Final\Projet_Final\bin\Debug\Projet_Final.exe.config
+C:\PROJECTS\projectCsharp\ProfinalBD2\ProFinalDB\Projet_Final\Projet_Final\obj\Debug\Projet_Final.exe
+C:\PROJECTS\projectCsharp\ProfinalBD2\ProFinalDB\Projet_Final\Projet_Final\obj\Debug\Projet_Final.pdb
+C:\PROJECTS\projectCsharp\ProfinalBD2\ProFinalDB\Projet_Final\Projet_Final\bin\Debug\Projet_Final.exe
+C:\PROJECTS\projectCsharp\ProfinalBD2\ProFinalDB\Projet_Final\Projet_Final\bin\Debug\Projet_Final.pdb
+C:\PROJECTS\projectCsharp\ProfinalBD2\ProFinalDB\Projet_Final\Projet_Final\obj\Debug\Projet_Final.csprojResolveAssemblyReference.cache
+C:\PROJECTS\projectCsharp\ProfinalBD2\ProFinalDB\Projet_Final\Projet_Final\obj\Debug\Projet_Final.Administration.resources
+C:\PROJECTS\projectCsharp\ProfinalBD2\ProFinalDB\Projet_Final\Projet_Final\obj\Debug\Projet_Final.Fomulaires.FeuilleCommis.resources
+C:\PROJECTS\projectCsharp\ProfinalBD2\ProFinalDB\Projet_Final\Projet_Final\obj\Debug\Projet_Final.FeuilleControle.resources
+C:\PROJECTS\projectCsharp\ProfinalBD2\ProFinalDB\Projet_Final\Projet_Final\obj\Debug\Projet_Final.Fomulaires.FormAuteur.resources
+C:\PROJECTS\projectCsharp\ProfinalBD2\ProFinalDB\Projet_Final\Projet_Final\obj\Debug\Projet_Final.COMMIS.resources
+C:\PROJECTS\projectCsharp\ProfinalBD2\ProFinalDB\Projet_Final\Projet_Final\obj\Debug\Projet_Final.Fomulaires.HighTechPrecisions.resources
+C:\PROJECTS\projectCsharp\ProfinalBD2\ProFinalDB\Projet_Final\Projet_Final\obj\Debug\Projet_Final.Gui.Login.resources
+C:\PROJECTS\projectCsharp\ProfinalBD2\ProFinalDB\Projet_Final\Projet_Final\obj\Debug\Projet_Final.Fomulaires.modifParametreCompte.resources
+C:\PROJECTS\projectCsharp\ProfinalBD2\ProFinalDB\Projet_Final\Projet_Final\obj\Debug\Projet_Final.Properties.Resources.resources
+C:\PROJECTS\projectCsharp\ProfinalBD2\ProFinalDB\Projet_Final\Projet_Final\obj\Debug\Projet_Final.csproj.GenerateResource.Cache

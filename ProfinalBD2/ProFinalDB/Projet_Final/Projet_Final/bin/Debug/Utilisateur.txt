@@ -1,0 +1,2 @@
+7412,nash,Chantal,1234,Employés,ACTIF
+1234,rémi,duplan,Administrateur,1234,ACTIF

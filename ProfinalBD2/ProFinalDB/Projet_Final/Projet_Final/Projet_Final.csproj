@@ -1,0 +1,174 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{542BF4B0-E465-4F44-ADD2-1887BF71DE2C}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Projet_Final</RootNamespace>
+    <AssemblyName>Projet_Final</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Configuration" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Business\Categorie.cs" />
+    <Compile Include="Business\Commande.cs" />
+    <Compile Include="Business\Facture.cs" />
+    <Compile Include="Business\Fournisseurs.cs" />
+    <Compile Include="DataAccess\AuteursBD.cs" />
+    <Compile Include="DataAccess\ClientsBD.cs" />
+    <Compile Include="DataAccess\CommandeBD.cs" />
+    <Compile Include="DataAccess\EmployesBD.cs" />
+    <Compile Include="Business\Employes.cs" />
+    <Compile Include="Business\Auteur.cs" />
+    <Compile Include="Business\Client.cs" />
+    <Compile Include="DataAccess\LivresBD.cs" />
+    <Compile Include="DataAccess\UtilityBD.cs" />
+    <Compile Include="Gui\Administration.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Gui\Administration.Designer.cs">
+      <DependentUpon>Administration.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Gui\FeuilleCommis.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Gui\FeuilleCommis.Designer.cs">
+      <DependentUpon>FeuilleCommis.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Gui\FeuilleInventaire.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Gui\FeuilleInventaire.Designer.cs">
+      <DependentUpon>FeuilleInventaire.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Gui\FormAuteur.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Gui\FormAuteur.Designer.cs">
+      <DependentUpon>FormAuteur.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Gui\Gestion.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Gui\Gestion.Designer.cs">
+      <DependentUpon>Gestion.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Gui\HighTechPrecisions.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Gui\HighTechPrecisions.Designer.cs">
+      <DependentUpon>HighTechPrecisions.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Gui\Login.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Gui\Login.Designer.cs">
+      <DependentUpon>Login.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Gui\modifParametreCompte.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Gui\modifParametreCompte.Designer.cs">
+      <DependentUpon>modifParametreCompte.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Gui\Validateur.cs" />
+    <Compile Include="Business\Livre.cs" />
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="Gui\Administration.resx">
+      <DependentUpon>Administration.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Gui\FeuilleCommis.resx">
+      <DependentUpon>FeuilleCommis.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Gui\FeuilleInventaire.resx">
+      <DependentUpon>FeuilleInventaire.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Gui\FormAuteur.resx">
+      <DependentUpon>FormAuteur.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Gui\Gestion.resx">
+      <DependentUpon>Gestion.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Gui\HighTechPrecisions.resx">
+      <DependentUpon>HighTechPrecisions.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Gui\Login.resx">
+      <DependentUpon>Login.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Gui\modifParametreCompte.resx">
+      <DependentUpon>modifParametreCompte.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <None Include="Properties\DataSources\Utilisateur.datasource" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config">
+      <SubType>Designer</SubType>
+    </None>
+  </ItemGroup>
+  <ItemGroup />
+  <ItemGroup>
+    <WCFMetadata Include="Service References\" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

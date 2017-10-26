@@ -1,0 +1,11 @@
+1234,Vincenti,Vincenti,Gestionnaire des ventes,1234,vivi@Ht.com,ACTIF
+2345,Remi,Duplan,Gestionnaire des ventes,1234,Remi.duplan@gmail.com,ACTIF
+9632,Albert,Monaco,Administrateur système,1234,Albert.monaco@gmail.com,ACTIF
+3456,James,Leboncoin,Commis de commandes,1234,james.leboncoin@gmail.com,ACTIF
+5467,mary,brown,Commis de commandes,1234,mary.brown@ht.com,ACTIF
+4687,henry,brown,Administrateur système,1234,henry.brown@ht.com,ACTIF
+9872,Thomas,Moore,Gestionnaire des ventes,1234,thomas.moore@ht.com,ACTIF
+7391,jennifer,bouchard,Gestionnaire des ventes,1234,jennifer.bouchard@ht.com,ACTIF
+1573,peter,Wang,Gestionnaire des ventes,1234,peter.wang@ht.com,ACTIF
+9874,Marcus,Cao,Contrôleur de l'inventaire,1234,m.cao@ht.com,ACTIF
+6547,Robert,Menard,Contrôleur de l'inventaire,1234,ro.ro@ht.com,ACTIF
